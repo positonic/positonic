@@ -11,3 +11,5 @@ I'm passionate about using technology to tackle climate change, with a strong be
 My ultimate goal is to save our planet using cutting-edge, trustworthy technology that bridges the gap between the cyberpunk realm and the natural world, striving for a utopian future where technology serves as a positive tonic for Earth.
 
 Follow me to join my journey and explore groundbreaking projects that aim to create a greener, brighter future for us all. 🌿🌐
+
+<a href="https://stackoverflow.com/users/382135/positonic"><img src="https://stackoverflow.com/users/flair/382135.png" width="208" height="58" alt="profile for Positonic at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Positonic at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
