@@ -12,7 +12,7 @@ Previous work includes:
 
 ❤️ Tech lead at Giveth.io
 
-⚗️ Tech lead at Alchemist
+⚗️ Tech lead on Copper at Alchemist
 
 Let's build out own utopian future where technology serves as a catalyst for positive change for us all! 🌿🌐
 
