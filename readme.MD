@@ -6,7 +6,7 @@ I'm passionate about using technology to tackle climate change and other environ
 
 🌱 Co-founder of Toucan.earth, with aims to rapidly scale the impact of planet-positive projects by turning carbon credits into tokens on public blockchains
 
-🌴 Co-founder of KlimaDAO.finance (🌳,🌳), which fights climate change through it's digital carbon backed currency
+🌴 Founding member of KlimaDAO.finance (🌳,🌳), which fights climate change through it's digital carbon backed currency
 
 My ultimate goal is to save our planet using cutting-edge, trustless technology that bridges the cypherpunk and natural worlds, striving for a utopian future where technology serves as a catalyst for positive change for us all.
 
