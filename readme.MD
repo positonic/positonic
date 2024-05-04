@@ -10,9 +10,9 @@ Previous work includes:
 
 🌴 Founding member of KlimaDAO.finance (🌳,🌳), which fights climate change through it's digital carbon backed currency
 
-❤️ Tech lead at Giveth.io
+❤️ Previous tech lead at Giveth.io
 
-⚗️ Tech lead on Copper at Alchemist
+⚗️ Preious tech lead on Copper at Alchemist
 
 Let's build out own utopian future where technology serves as a catalyst for positive change for us all! 🌿🌐
 
