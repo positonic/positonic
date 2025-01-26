@@ -4,7 +4,21 @@ I'm a builder and product leader 🛠 who's passionate about using technology to
 
 I believe public blockchains and Zero Knowledge enable co-ordination and collaboration in ground breaking ways, and I'm always looking to unlock new portals that didn't previously exist in order to beam us into a better future.
 
-Previous work includes:
+### Currently working on:
+
+🛠️ [https://hyperstaker.com](https://hyperstaker.com)
+
+💖 [https://akashic.xyz](https://akashic.xyz)
+
+
+### Recently:
+
+🏡 [https://www.fundingthecommons.io/residencies](Funding the commons residency) - Curated and co-ran
+
+🖥️ [https://www.fundingthecommons.io/hackathons](Funding the commons virtual hackathon) - Designed and ran
+
+
+### Previous work includes:
 
 🌱 Co-founder of Toucan.earth, with aims to rapidly scale the impact of planet-positive projects by turning carbon credits into tokens on public blockchains
 
