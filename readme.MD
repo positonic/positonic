@@ -6,16 +6,16 @@ I believe public blockchains and Zero Knowledge enable co-ordination and collabo
 
 ### Currently working on:
 
-🛠️ [https://hyperstaker.com](https://hyperstaker.com)
+🛠️ [Hyperstaker](https://hyperstaker.com)
 
-💖 [https://akashic.xyz](https://akashic.xyz)
+💖 [Akashic](https://akashic.xyz)
 
 
 ### Recently:
 
-🏡 [https://www.fundingthecommons.io/residencies](Funding the commons residency) - Curated and co-ran
+🏡 [Funding the commons residency](https://www.fundingthecommons.io/residencies) - Curated and co-ran
 
-🖥️ [https://www.fundingthecommons.io/hackathons](Funding the commons virtual hackathon) - Designed and ran
+🖥️ [Funding the commons virtual hackathon](https://www.fundingthecommons.io/hackathons) - Designed and ran
 
 
 ### Previous work includes:
