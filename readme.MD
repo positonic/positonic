@@ -10,6 +10,8 @@ I believe public blockchains and Zero Knowledge enable co-ordination and collabo
 
 💖 [Akashic](https://akashic.xyz)
 
+🎯 [Life OS](https://ai-todo-six.vercel.app/)
+
 
 ### Recently:
 
