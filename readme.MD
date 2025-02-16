@@ -17,7 +17,7 @@ I believe public blockchains and Zero Knowledge enable co-ordination and collabo
 
 🏡 [Funding the commons residency](https://www.fundingthecommons.io/residencies) - Curated and co-ran
 
-🖥️ [Funding the commons virtual hackathon](https://www.fundingthecommons.io/hackathons) - Designed and ran
+🖥️ [Funding the commons virtual hackathon](https://www.fundingthecommons.io/hackathons) - Designed and co-ran
 
 
 ### Previous work includes:
